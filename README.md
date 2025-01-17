@@ -16,7 +16,7 @@ This is a web-based *Student Attendance Management System* developed using *HTML
 ## *Technologies Used*
 - *Frontend*: HTML, CSS, JavaScript  
 - *Backend*: PHP  
-- *Database*: MySQL (via XAMPP)  
+- *Database*: MySQL (via phpmyadmin)  
 - *Local Server*: XAMPP  
 
 ---
